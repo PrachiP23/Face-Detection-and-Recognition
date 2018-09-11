@@ -1,5 +1,5 @@
 # Face Detection and Recognition
-1.	Read the images from URL mentioned in the data file. Histogram equalization before face detection was applied to improve detection accuracy for images. 
+1.	Read the images from URL mentioned in the data file. Histogram equalization was applied before any processing to improve detection accuracy for images. 
 2.	Face detection was implemented using two methods:
     1)	Skin segmentation and morphological processing (MATLAB)
     2) Viola-Jones Detection (OpenCV) - better performance
